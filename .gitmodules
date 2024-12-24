@@ -1,0 +1,3 @@
+[submodule "path/to/new_submodule"]
+	path = path/to/new_submodule
+	url = https://github.com/codeforany/fitness_workout_app_flutter_3_ui.git
